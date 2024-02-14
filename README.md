@@ -15,8 +15,8 @@
     <a href="https://kkangna.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-      
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=khb3254&theme=default)](https://kkangna.tistory.com)
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=kkangna&theme=default)](https://kkangna.tistory.com)
 </div><br>
 
 
