@@ -8,6 +8,20 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
 
+<br>
+
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://kkangna.tistory.com">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+      
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://kkangna.tistory.com)
+</div><br>
+
+
+
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:khb3254@naver.com">
