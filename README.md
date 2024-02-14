@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Nayeong's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Nayeong's Github &fontSize=90" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khb3254&show_icons=true&theme=solarized-dark)
@@ -10,7 +10,7 @@
 
 <br>
 
-## 💻 DEV's log 💻
+## 💻 Nayeong's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://kkangna.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
