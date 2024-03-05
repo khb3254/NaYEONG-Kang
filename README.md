@@ -16,8 +16,8 @@
     </a>
 
 
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kkangna&postId=kkangna)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kkangna&postId=kkangna)]
+(https://kkangna.tistory.com)
 </div><br>
 
 
