@@ -16,12 +16,6 @@
     </a>
 
 
-    
-![Tistory's Card](https://github-readme-tistory-card.vercel.app/
-api?name=kkangna&theme=default)([https://kkangna.tistory.com/])    
-</div><br>
-
-
 
 
 ## 📞 Contact 📞
